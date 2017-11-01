@@ -1,3 +1,10 @@
+/*
+Exercise 2 : Calculator
+
+Simple Java program to practice input, output and if/else statements
+
+Copyright (C) RedFantom 2017
+*/
 import java.util.Scanner;
 
 public class Calculator {
